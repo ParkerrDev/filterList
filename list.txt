@@ -1,9 +1,9 @@
 ! Block AI Websites
 ||chatgpt.com
 ||claude.ai
+||github.com/copilot^
 
 ! Oct 12, 2025 https://github.com
 github.com##.copilotImmersive.page-responsive.env-production.logged-in
 github.com##.hide-md.hide-sm.AppHeader-CopilotChat
 github.com##.flash-error.js-notice.flash-full.flash
-
