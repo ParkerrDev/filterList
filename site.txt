@@ -13007,8 +13007,6 @@ redangel.hu##html
 redangels.se##html
 ||redbled.com^
 redbled.com##html
-||reddit.com^
-reddit.com##html
 ||reddpics.com^
 reddpics.com##html
 ||redgifs.com^
