@@ -7555,8 +7555,6 @@ imagetwist.com##html
 imageweb.ws##html
 ||imagezog.com^
 imagezog.com##html
-||imdb.com^
-imdb.com##html
 ||img.celeb.gate.cc^
 img.celeb.gate.cc##html
 ||img.freexxxpages.net^
