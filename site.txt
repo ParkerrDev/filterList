@@ -6611,8 +6611,6 @@ gratuit.porn.fr##html
 grayvee.com##html
 ||grazzier.hopto.org^
 grazzier.hopto.org##html
-||greasyfork.org^
-greasyfork.org##html
 ||great-nude.com^
 great-nude.com##html
 ||greatvirgins.com^
