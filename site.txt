@@ -10337,8 +10337,6 @@ mobile-xvideos.com##html
 mobile.deviantclip.com##html
 ||mobile.juicyads.com^
 mobile.juicyads.com##html
-||mobile.twitter.com^
-mobile.twitter.com##html
 ||mobile.xshare.com^
 mobile.xshare.com##html
 ||mobileporn.me^
@@ -16049,8 +16047,6 @@ twistedblogs.com##html
 twister.porn##html
 ||twistys.com^
 twistys.com##html
-||twitter.com^
-twitter.com##html
 ||twizporn.com^
 twizporn.com##html
 ||txxx.com^
